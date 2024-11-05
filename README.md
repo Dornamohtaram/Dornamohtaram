@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-As a proud member of the Turing research group and senior developer, I specialize in Next.js, JavaScript, Node.js, Python, C#, and C++. My expertise lies in developing powerful, responsive applications with seamless user experiences and robust back-end systems.
+Hello everyone! I am a Computer Engineering student and a member of the Turing Research Group, I specialize in Next.js, JavaScript, Node.js, Python, C#, and C++. My expertise lies in developing powerful, responsive applications with seamless user experiences and robust back-end systems.
 
 
 # 💻 Tech Stack:
